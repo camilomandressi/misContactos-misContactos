@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Camilo Mandressi</string>
+    <string name="telefono">099111111</string>
+    <string name="email">camilo@gmail.com</string>
+    <string name="pnombre">Nombre:</string>
+    <string name="plikes">5</string>
+    <string name="pemail">E-mail:</string>
+</resources>
